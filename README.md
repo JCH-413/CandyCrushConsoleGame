@@ -1,0 +1,2 @@
+# CandyCrushConsoleGame
+✅ Clean & Descriptive (Best for general use) A console-based Candy Crush clone in C++, with cursor controls, scoring logic, and difficulty modes.  🎮 Fun & Personal My first console game in C++ — a nostalgic take on Candy Crush using pure logic and keystrokes.  💻 Technical Focus A match-3 puzzle game implemented in C++ with cursor navigation, swap mechanics, and score tracking.  🚀 Shortest Valid Option Console Candy Crush clone in C++ with scoring, moves, and keyboard navigation.
