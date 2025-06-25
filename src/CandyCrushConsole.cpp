@@ -1,8 +1,8 @@
 #include<iostream>
 #include<string>
 #include<conio.h>
-#include"CandyCrushLogic.h"
-#include"CandyCrushTimer.h"
+#include "../include/CandyCrushLogic.h"
+#include "../include/CandyCrushTimer.h"
 using namespace std;
 #define KEY_UP 72
 #define KEY_DOWN 80

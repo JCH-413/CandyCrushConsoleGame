@@ -54,8 +54,8 @@ A terminal-based Candy Crush clone built from scratch in C++ during my first sem
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/CandyConsole-Cpp.git
-cd CandyConsole-Cpp
+git clone https://github.com/JCH-413/CandyConsole-Console-Based.git
+cd CandyConsole-Console-Based
 ```
 
 2. **Compile using any C++ compiler (supports Windows.h)**
@@ -68,7 +68,6 @@ g++ src/*.cpp -I include -o CandyConsole.exe
 
 ```bash
 ./CandyConsole.exe
-
 ```
 
 ⚠️ This game is designed for Windows OS as it uses <Windows.h> for colored output.
@@ -90,12 +89,18 @@ This project taught me:
 ---
 
 ## 📸 Screenshots & Demo
-Check out a short demo here!!!
+- Main Menu
+![main-menu](image-1.png)
 
+- Instructions
+![instructions](image-2.png)
+
+- Game
+![main-game](image-3.png)
 ---
 
 ## 🙌 Authors
-- Junaid A. Chaudhary
+- Junaid Chaudhary
 - Muhammad Ahmed
 
 ---
@@ -113,7 +118,7 @@ You are free to use, modify, and distribute this project with proper attribution
 If you have questions, feedback, or just want to connect:
 
 - 📧 Email: junaidch413@gmail.com  
-- 💼 LinkedIn: [Junaid A. Chaudhary](https://www.linkedin.com/in/your-profile/)
-- 🌱 GitHub: [@your-username](https://github.com/your-username)
+- 💼 LinkedIn: [Junaid Chaudhary](https://www.linkedin.com/in/jch413/)
+- 🌱 GitHub: [@JCH-413](https://github.com/JCH-413)
 
 Feel free to fork the repo, open issues, or suggest improvements. Let’s build better code together!
